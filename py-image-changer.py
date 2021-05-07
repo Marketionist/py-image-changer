@@ -45,6 +45,3 @@ img.save('resized-with-keeping-aspect-ratio.png')
 
 print(f'New properly resized image size: {img.size}')
 resized_img.show()
-
-
-
